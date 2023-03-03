@@ -1,0 +1,23 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton06op/test.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "AV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton06op/test/issues"
+  },
+  "homepage": "https://github.com/anton06op/test#readme"
+}
